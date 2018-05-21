@@ -1,1 +1,1 @@
-# Amazon-s-Rekognition-API
+# FaceRekognition-Demo
